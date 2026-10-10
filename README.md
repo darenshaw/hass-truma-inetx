@@ -9,8 +9,10 @@ Heating, water heating, electric level, diesel burner, fan, timers, tanks, gas
 bottles, air conditioning and faults — whatever the vehicle's bus reports. No
 cloud, no Truma account, no LIN wiring.
 
-Developed against an iNet X driving a **Truma Combi**. Other Truma appliances
+Developed against an iNet X driving a **Alde 3020 Compact**. Other alde appliances
 speak the same protocol but are untested; reports welcome.
+
+original Truma Diesel Combi and inet x entities are present but may not show until in use as only enabled entities show.
 
 > ### ⚠️ Updating from 0.8.x: **every entity id changes**
 >
